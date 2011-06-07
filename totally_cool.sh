@@ -1,1 +1,1 @@
-echo 'This will conflict'
+echo 'Totally Cool!'
